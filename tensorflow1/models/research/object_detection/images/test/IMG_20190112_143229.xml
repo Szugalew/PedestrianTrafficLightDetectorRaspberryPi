@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>IMG_20190112_143229.jpg</filename>
+	<path>C:\Users\Mikhail Szugalew\Documents\object_detection\images\stop\IMG_20190112_143229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>24</width>
+		<height>54</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>14</ymin>
+			<xmax>18</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>

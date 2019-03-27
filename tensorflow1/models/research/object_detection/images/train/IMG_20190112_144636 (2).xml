@@ -1,0 +1,26 @@
+<annotation>
+	<folder>walk</folder>
+	<filename>IMG_20190112_144636.jpg</filename>
+	<path>C:\Users\Mikhail Szugalew\Documents\object_detection\images\walk\IMG_20190112_144636.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>35</width>
+		<height>56</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>walk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>10</ymin>
+			<xmax>30</xmax>
+			<ymax>31</ymax>
+		</bndbox>
+	</object>
+</annotation>
